@@ -1,0 +1,10 @@
+/portal /
+/portal/* /
+/api /
+/api/* /
+/api/docs /
+/openapi.json /
+/admin /
+/admin/* /
+/demo /
+/demo/* /
